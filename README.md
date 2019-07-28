@@ -1,6 +1,7 @@
 # Blast Betting Game Emulator
 
 This is a try for emulating the functionality of a internet base betting game called Blast. 
+(this repo will not be updated)
 
 ## Dependencies: 
 
